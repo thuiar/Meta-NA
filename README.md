@@ -8,7 +8,9 @@
 
 > Previous works on robust MSA can be segmented into two classes, one solution is to train individual models from scratch for each type of noise, the other solution is to build unified model for varying noise patterns. As a compromise between training from scratch and utilizing the unified model for an unseen noise pattern, the meta learning paradigm first acquires shared knowledge for all potential types of feature noise during the meta training period, and further refines using instances with the target noise pattern during the meta testing period.
 
-<img src="./asset/intro.png" alt="intro" style="zoom:30%;" />
+<div align="center">
+<img src="./asset/intro.png" alt="taxonomy" width="64%" />
+</div>
 
 ## Methodology - Meta-NA
 
