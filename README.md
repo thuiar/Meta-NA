@@ -2,7 +2,7 @@
 
 # Meta-NA
 
-> Pytorch implementation for codes in [Noise Imitation Based Adversarial Training for Robust Multimodal Sentiment Analysis (Accepted by IEEE Transactions on Multimedia)](https://arxiv.org). For baseline methods, please see our repo [MMSA](https://github.com/thuiar/MMSA) and repo  [OpenVNA](https://github.com/Columbine21/OpenVNA) for more details, which are scalable frameworks for MSA and Robust MSA.
+> Pytorch implementation for codes in [Meta Noise Adaption Framework for Multimodal Sentiment Analysis with Feature Noise (Accepted by IEEE Transactions on Multimedia)](https://ieeexplore.ieee.org/abstract/document/10423206). For baseline methods, please see our repo [MMSA](https://github.com/thuiar/MMSA) and repo  [OpenVNA](https://github.com/Columbine21/OpenVNA) for more details, which are scalable frameworks for MSA and Robust MSA.
 
 ## Motivation
 
